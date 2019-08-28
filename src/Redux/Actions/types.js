@@ -1,0 +1,42 @@
+
+//Users Action Types
+export const GET_ERRORS = "GET_ERRORS";
+export const LOADING = "LOADING";
+export const SET_CURRENT_USER = "SET_CURRENT_USER";
+export const EMAIL_SENT_MESSAGE = 'EMAIL_SENT_MESSAGE';
+export const GET_ALL_USERS = 'GET_ALL_USERS';
+export const GET_ALL_STAFF = 'GET_ALL_STAFF';
+export const GET_ALL_COMPLAINTS = 'GET_ALL_COMPLAINTS';
+export const GET_ALL_DEMANDS = 'GET_ALL_DEMANDS';
+export const GET_ALL_FEEDBACKS = 'GET_ALL_FEEDBACKS';
+export const UPDATE_USER = 'UPDATE_USER';
+export const DELETE_USER = 'DELETE_USER';
+export const DELETE_STAFF = 'DELETE_STAFF';
+export const UPDATE_STAFF = 'UPDATE_STAFF';
+export const UPDATE_STATUS = 'UPDATE_STATUS';
+export const DELETE_COMPLAIN = 'DELETE_COMPLAIN';
+export const UPDATE_FEEDBACK = 'UPDATE_FEEDBACK';
+export const DELETE_FEEDBACK = 'DELETE_FEEDBACK';
+export const UPDATE_DEMAND  = 'UPDATE_DEMAND';
+export const DELETE_DEMAND  = 'DELETE_DEMAND';
+
+//Movies
+
+export const UPLOAD_MOVIE = 'UPLOAD_MOVIE';
+export const GET_ALL_MOVIES = 'GET_ALL_MOVIES';
+export const UPDATE_MOVIE = 'UPDATE_MOVIE';
+export const DELETE_MOVIE = 'DELETE_MOVIE';
+
+
+
+
+
+
+// Products Action Types
+export const ADD_PRODCUT = 'ADD_PRODUCT';
+export const GET_ALL_PRODUCTS = 'GET_ALL_PRODUCTS';
+export const GET_ONE_PRODUCT = 'GET_ONE_PRODUCT';
+export const UPDATE_PRODUCT = 'UPDATE_PRODUCT';
+export const DELETE_PRODUCT = 'DELETE_PRODUCT';
+export const PRODUCT_LOADING_START = 'PRODUCT_LOADING_START'
+export const PRODUCT_LOADING_END = 'PRODUCT_LOADING_END'
